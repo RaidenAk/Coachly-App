@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53017691840",
+    "project_id": "coachly-bd47e",
+    "storage_bucket": "coachly-bd47e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53017691840:android:5d6384a2d22f88f1028f25",
+        "android_client_info": {
+          "package_name": "com.example.cs1200_project_assignment_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYt2l7A3k308EPv9FmVzM0c0OZDuhIp3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
